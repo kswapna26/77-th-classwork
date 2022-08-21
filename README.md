@@ -1,2 +1,1 @@
-# 77-th-classwork
-my projectg on iss
+# C77_ISSTracker_TeacherReferenceCode
